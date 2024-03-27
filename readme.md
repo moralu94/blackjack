@@ -1,6 +1,6 @@
 # Blackjack app
 
-## [Live Preview!](https://1uum.github.io/blackjack/)
+## [Live Preview!](https://moralu94.github.io/blackjack/)
 -----
 ### Documentation: 
 
